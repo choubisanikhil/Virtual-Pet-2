@@ -11,8 +11,8 @@ var input, button;
 
 function preload(){
   //load images here
-  hungryDog = loadImage("images/dogImg1.png");
-  happyDog = loadImage("images/dogImg.png");
+  hungryDog = loadImage("images/Hungry.png");
+  happyDog = loadImage("images/Dog.png");
   bedroomIMG = loadImage("images/Bed Room.png");
   gardenIMG = loadImage("images/Garden.png");
   washroomIMG = loadImage("images/Wash Room.png");
